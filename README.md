@@ -1,2 +1,2 @@
-# combolist_maker
+## Combolist maker
 something:hash + hash:text -> something:text
