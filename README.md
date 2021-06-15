@@ -1,2 +1,2 @@
 ## Combolist maker
-something:hash + hash:text -> something:text
+`something:hash` + `hash:text` -> `something:text`
